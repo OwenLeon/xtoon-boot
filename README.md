@@ -25,7 +25,7 @@
 
   [官网](http://xtoon-boot.xiangtoon.com/) |
   [在线体验](http://xtoon-boot.demo.xiangtoon.com/) |
-  [前端开源框架](https://gitee.com/xtoon/xtoon-boot-element) |
+  [前端开源框架](https://github.com/xtoon/xtoon-boot-element) |
 </div>
 
 ## 为何选择xtoon-boot
@@ -116,7 +116,7 @@ xtoon-boot
 
 ## 维护者
 
-- [haoxin963](https://github.com/haoxin963) 
+- [xtoon](https://github.com/xtoon) 
 
 
 ## 版权声明
