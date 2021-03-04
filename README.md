@@ -107,7 +107,7 @@ xtoon-boot
 2005年Alistair Cockburn提出了六边形架构，又被称为端口和适配器架构。观察上图我们发现，对于核心的应用程序和领域模型来说，其他的底层依赖或实现都可以抽象为输入和输出两类。组织关系变为了一个二维的内外关系，而不是上下结构。每个io与应用程序之前均有适配器完成隔离工作，每个最外围的边都是一个端口。基于六边形架构设计的系统是DDD追求的最终形态。
 
 ## 相关文档
-- [CSDN博客-DDD系统](https://blog.csdn.net/haoxin963/category_10708582.html)
+- [CSDN博客-DDD系列](https://blog.csdn.net/haoxin963/category_10708582.html)
 
 
 ## 技术交流
