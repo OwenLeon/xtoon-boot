@@ -26,7 +26,7 @@
   [官网](http://xtoon-boot.xiangtoon.com/) |
   [在线体验](http://xtoon-boot.demo.xiangtoon.com/) |
   [Swagger](http://106.12.78.187:8080/xtoon-boot/swagger-ui/index.html) |
-  [前端开源框架](https://gitee.com/xtoon/xtoon-boot-element) |
+  [前端开源框架](https://github.com/xtoon/xtoon-boot-element) |
 </div>
 
 ## 为何选择xtoon-boot
